@@ -1,0 +1,34 @@
+# ----------- CONFIGURABLE START -----------
+title:            "LambdAle"
+description:      "A functional programming conference in a pub."
+url:              http://lambdale.org # Site url, without a slash at the end.
+google_analytics: "UA-113702542-1"
+
+links:
+  - name:         About
+    url:          /
+    external:     false
+  - name:         Venue
+    url:          /venue
+    external:     false
+  - name:         Schedule
+    url:          /schedule
+    external:     false
+  - name:         CFP
+    url:          /cfp
+    external:     false
+  - name:         Tickets
+    url:          /tickets
+    external:     false
+  - name:         Sponsorship
+    url:          /sponsorship
+    external:     false
+  - name:         Code of Conduct
+    url:          /coc
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /posts/:title
+defaults:
+  - values:
+      layout: "default"
