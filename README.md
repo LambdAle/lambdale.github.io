@@ -22,17 +22,10 @@ Then:
 
 4. Go to http://localhost:4000
 
----
+## Deploying a change
 
-## Make it yours
+1. Make a PR against `master`
 
-1. Edit `_config.yml`, adn then rerun `jekyll serve -w`
+2. Somebody merges the PR
 
-2. Change `about.md` for blog intro
-
-3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
-
-## The end
-
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Problem? [Use GitHub Issues](https://github.com/muan/scribble).
+3. GitHub automatically deploys it. It should show up at http://lambdale.org within minutes.

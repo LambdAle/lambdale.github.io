@@ -3,6 +3,7 @@ title:            "LambdAle"
 description:      "A functional programming conference in a pub."
 url:              http://lambdale.org # Site url, without a slash at the end.
 google_analytics: "UA-113702542-1"
+facebook_appid:   "249221955617000"
 
 links:
   - name:         About
@@ -28,7 +29,7 @@ links:
     external:     false
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /posts/:title
+permalink:        /:title
 defaults:
   - values:
       layout: "default"
