@@ -2,6 +2,30 @@
 title: Schedule
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+Note: this is a very tentative schedule, subject to change based on the CFP results.
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+| 09:30 | *Registration* |
+| 10:00 | Keynote |
+| 10:45 | *Break* |
+| 11:00 | Technical talk |
+| 11:30 | *Break* |
+| 11:40 | Technical talk |
+| 12:10 | *Break* |
+| 12:20 | Technical talk |
+| 12:50 | *Lunch (buffet)* |
+| 14:00 | Technical talk |
+| 14:30 | *Break* |
+| 14:40 | Technical talk |
+| 15:10 | *Break* |
+| 15:20 | Technical talk |
+| 15:50 | *Break* |
+| 16:00 | Lightning talks (10min x 3) |
+| 16:30 | *Break* |
+| 16:40 | Non-technical talks (mix of 30min and 10min?) |
+| 18:00 | *Finish* |
+
+## Evening
+
+After the conference finishes at 6pm, you are welcome to stay and socialise in the venue. The pub is open until 1am!
+
+You may also wish to relocate to the main bar downstairs.
