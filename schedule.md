@@ -5,7 +5,7 @@ title: Schedule
 Note: this is a very tentative schedule, subject to change based on the CFP results.
 
 | 09:30 | *Registration* |
-| 10:00 | Keynote |
+| 10:00 | Keynote - [Nada Amin](http://lampwww.epfl.ch/~amin/cv/) |
 | 10:45 | *Break* |
 | 11:00 | Technical talk |
 | 11:30 | *Break* |
