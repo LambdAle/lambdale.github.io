@@ -24,6 +24,14 @@
         {% endfor %}
       </nav>
 
+      {% if page.title != "Sponsors" %}
+      <div class="pt4 tc">
+        <a class="ph2" href="https://signifytechnology.com/"><img src="{{ site.url }}/images/sponsors/signify-no-text.png" alt="Signify Technology" width="50" height="50"></a>
+        <a class="ph2" href="https://softwaremill.com/"><img src="{{ site.url }}/images/sponsors/softwaremill.png" alt="SoftwareMill" width="134" height="50"></a>
+        <a class="ph2" href="https://underscore.io/"><img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore" width="113" height="50"></a>
+      </div>
+      {% endif %}
+
       <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
         {% if page.title %}
           <div class="mb4">
