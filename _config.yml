@@ -21,8 +21,8 @@ links:
   - name:         Tickets
     url:          /tickets
     external:     false
-  - name:         Sponsorship
-    url:          /sponsorship
+  - name:         Sponsors
+    url:          /sponsors
     external:     false
   - name:         Code of Conduct
     url:          /coc
