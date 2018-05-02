@@ -55,7 +55,7 @@ awesome.
     <div class="fl w-100 w-50-ns h-100 pa2 dt">
       <div class="pv4 dtc v-mid tc">
         <a href="https://underscore.io/">
-          <img src="http://localhost:4000/images/sponsors/underscore.png" alt="Underscore" width="200" height="88">
+          <img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore" width="200" height="88">
         </a>
       </div>
     </div>
