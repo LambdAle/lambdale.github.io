@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "LambdAle"
 description:      "A functional programming conference in a pub."
-url:              http://lambdale.org # Site url, without a slash at the end.
+url:              https://lambdale.org # Site url, without a slash at the end.
 google_analytics: "UA-113702542-1"
 facebook_appid:   "249221955617000"
 
