@@ -2,4 +2,5 @@
 title: Tickets
 ---
 
-Tickets will be on sale in spring 2018. Follow us on Twitter for updates.
+Tickets are on sale now! You can purchase them from [our Eventbrite
+page](https://www.eventbrite.com/e/lambdale-tickets-46828359885).
