@@ -8,7 +8,7 @@ LambdAle is a functional programming conference in a pub.
 
 **Location:** Balham Bowls Club, Balham, London
 
-**Content**: A mix of technical and non-technical talks, including lightning talks.
+**Content**: 11 half-hour talks, with an FP-flavoured pub quiz to finish.
 
 Our goal is to bring people together to learn about FP in a fun, relaxing and welcoming environment.
 
