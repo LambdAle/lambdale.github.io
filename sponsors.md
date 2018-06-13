@@ -13,6 +13,27 @@ awesome.
   <div class="cf ph2-ns" style="height: 250px">
     <div class="fl w-100 w-50-ns h-100 pa2 dt">
       <div class="pv4 dtc v-mid tc">
+        <a href="https://www.fundingcircle.com/">
+          <img src="{{ site.url }}/images/sponsors/funding-circle.svg" alt="Funding Circle" width="200" height="120">
+        </a>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid">
+          Funding Circle is the world’s leading lending platform for small businesses. We match investors with money to lend with businesses looking to fund their next step.
+          So whether you’re a business owner who aspires to do more, or an investor who wants your money to go further, we believe in you. 
+          You’re the ones we built Funding Circle for.
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="mw9 center ph3-ns">
+  <div class="cf ph2-ns" style="height: 250px">
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid tc">
         <a href="https://www.signifytechnology.com/">
           <img src="{{ site.url }}/images/sponsors/signify.svg" alt="Signify" width="200" height="200">
         </a>
