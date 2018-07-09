@@ -154,9 +154,8 @@ Oskar Wickström ([@owickstrom](https://twitter.com/owickstrom))
 Functional programming has made a substantial impact on user interface
 programming for the web, with virtual DOM technologies and unidirectional data
 flow. Can the same be done in Haskell without compiling to Javascript and
-Electron? In this talk you will learn about declarative GTK interfaces, and
-writing applications as type-level state machines using Motor, in plain GHC
-Haskell.
+Electron? In this talk you will learn about declarative programming of GTK
+interfaces with Haskell.
 
 #### About the speaker
 
