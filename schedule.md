@@ -36,72 +36,67 @@ title: Schedule
 </tr>
 
 <tr>
-  <td class="ba b--black-50">12:10</td>
+  <td class="ba b--black-50">12:15</td>
   <td class="ba b--black-50"><a href="#declarative-gtk-programming-in-haskell" class="b">Declarative GTK Programming in Haskell - Oskar Wickström</a></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">12:40</td>
+  <td class="ba b--black-50">12:45</td>
   <td class="ba b--black-50"><a href="#fp-and-event-based-systems" class="b">FP and Event Based Systems - Hamish Dickson</a></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">13:10</td>
+  <td class="ba b--black-50">13:15</td>
   <td class="ba b--black-50"><span class="i">Lunch (buffet)</span></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">14:10</td>
+  <td class="ba b--black-50">14:15</td>
   <td class="ba b--black-50"><a href="#there-is-a-bluebird-in-my-talk-that-wants-to-get-out" class="b">There is a Bluebird in my talk that wants to get out - Lucas Fernandes da Costa</a></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">14:40</td>
+  <td class="ba b--black-50">14:45</td>
   <td class="ba b--black-50"><a href="#code-in-code-in-idris" class="b">Code in Code in Idris - Tom Harding</a></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">15:10</td>
+  <td class="ba b--black-50">15:15</td>
   <td class="ba b--black-50"><span class="i">Break</span></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">15:20</td>
-  <td class="ba b--black-50"><a href="#functorial-programming" class="b">FUNCTORial programming - Marcin Matuszak</a></td>
-</tr>
-
-<tr>
-  <td class="ba b--black-50">15:50</td>
+  <td class="ba b--black-50">15:30</td>
   <td class="ba b--black-50"><a href="#asynchronous-programming-scalaconcurrent-and-monix" class="b">Asynchronous Programming: Scala.concurrent and Monix - Yifan Xing</a></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">16:20</td>
+  <td class="ba b--black-50">16:00</td>
   <td class="ba b--black-50"><span class="i">Break</span></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">16:30</td>
+  <td class="ba b--black-50">16:15</td>
   <td class="ba b--black-50"><a href="#types-vs-tests" class="b">Types vs Tests - Julien Truffaut</a></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">17:00</td>
+  <td class="ba b--black-50">16:45</td>
   <td class="ba b--black-50"><a href="#illogical-engineers" class="b">ILLOGICAL ENGINEERS - Paweł Szulc</a></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">17:30</td>
+  <td class="ba b--black-50">17:15</td>
   <td class="ba b--black-50"><span class="i">Break</span></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">17:40</td>
+  <td class="ba b--black-50">17:30</td>
   <td class="ba b--black-50"><span class="b">Pub quiz!</span></td>
 </tr>
 
 <tr>
-  <td class="ba b--black-50">18:10</td>
+  <td class="ba b--black-50">18:00</td>
   <td class="ba b--black-50"><span class="b">Finish</span></td>
 </tr>
 
@@ -225,24 +220,6 @@ blurs the boundaries between type and term, as well as function and data.
 #### About the speaker
 
 Writes Haskell and PureScript for Habito. Likes long walks on the beach, strong types, and hummus.
-
-<a href="#schedule">^ Back to schedule</a>
-
-### FUNCTORial programming
-
-Marcin Matuszak ([@marcinmatuszak](https://twitter.com/marcinmatuszak))
-
-Functors. Functors everywhere!
-
-I dare say that Functor is most important building block of functional programming.
-
-I will use my 30 minutes to defend this statement.
-
-#### About the speaker
-
-Marcin is an enthusiastic functional programmer from Wrocław, Poland. Working as
-a Data Engineer at Ryanair. His recent interest is a mix of machine learning and
-functional programming.
 
 <a href="#schedule">^ Back to schedule</a>
 
