@@ -34,6 +34,25 @@ awesome.
   <div class="cf ph2-ns" style="height: 250px">
     <div class="fl w-100 w-50-ns h-100 pa2 dt">
       <div class="pv4 dtc v-mid tc">
+        <a href="https://developers.theguardian.com/">
+          <img src="{{ site.url }}/images/sponsors/guardian.svg" alt="The Guardian" width="320" height="103">
+        </a>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid">
+          We’re shaping the future of digital journalism. Join us.
+The innovation and energy of a start-up combined with the Guardian’s ground breaking journalism.
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="mw9 center ph3-ns">
+  <div class="cf ph2-ns" style="height: 250px">
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid tc">
         <a href="https://www.signifytechnology.com/">
           <img src="{{ site.url }}/images/sponsors/signify.svg" alt="Signify" width="200" height="200">
         </a>
