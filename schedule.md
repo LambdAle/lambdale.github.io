@@ -12,7 +12,7 @@ title: Schedule
 
 <tr>
   <td class="ba b--black-50">10:00</td>
-  <td class="ba b--black-50"><span class="b">Keynote - <a href="http://lampwww.epfl.ch/~amin/cv/" target="_blank">Nada Amin</a></span></td>
+  <td class="ba b--black-50"><a href="#keynote" class="b">Keynote: Generating and Verifying C from Scala with LMS-verify - Nada Amin</a></td>
 </tr>
 
 <tr>
@@ -104,6 +104,31 @@ title: Schedule
 </table>
 
 ## Talks
+
+### Keynote
+
+Generating and Verifying C from Scala with LMS-verify
+
+Nada Amin ([@nadamin](https://twitter.com/nadamin), [CV](http://lampwww.epfl.ch/~amin/cv/))
+
+I will show how to use Scala as a glorified macro system to compose fragments of
+first-order C code augmented with specifications that can be independently
+verified with tools such as Frama-C. I will start by demoing a generative image
+processing DSL due to Oleg Kiselyov. Then, I will show several examples of
+verified optimizations and code generation, including string matching and HTTP
+parsing. The take away is "abstraction without regret" thanks to deep linguistic
+reuse.
+
+#### About the speaker
+
+Nada is a lecturer in Programming Languages at the University of Cambridge.
+
+She earned her PhD at EPFL, where she worked on the DOT calculus that forms the
+type-theoretic foundation of Scala 3.
+
+She also worked as a post-doctoral researcher at TU Darmstadt.
+
+<a href="#schedule">^ Back to schedule</a>
 
 ### Recursion schemes by example
 
