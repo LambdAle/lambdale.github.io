@@ -6,8 +6,13 @@ title: Schedule
 <tbody>
 
 <tr>
-  <td class="ba b--black-50">09:30</td>
+  <td class="ba b--black-50">09:00</td>
   <td class="ba b--black-50"><span class="i">Registration</span></td>
+</tr>
+
+<tr>
+  <td class="ba b--black-50">09:50</td>
+  <td class="ba b--black-50"><span class="i">Opening speech</span></td>
 </tr>
 
 <tr>
