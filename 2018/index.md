@@ -1,12 +1,13 @@
 ---
 title: LambdAle
+layout: default2018
 ---
 
 LambdAle is a functional programming conference in a pub.
 
-**Date:** Saturday 21st September
+**Date:** Saturday 1st September
 
-**Location:** ???
+**Location:** Balham Bowls Club, Balham, London
 
 **Content**: 11 half-hour talks, with an FP-flavoured pub quiz to finish.
 
