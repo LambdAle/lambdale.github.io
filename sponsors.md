@@ -15,7 +15,7 @@ awesome.
     <div class="fl w-100 w-50-ns h-100 pa2 dt">
       <div class="pv4 dtc v-mid tc">
         <a href="https://www.ovoenergy.com/">
-          <img src="{{ site.url }}/images/sponsors/ovoenergy.png" alt="Ovo Energy" width="200">
+          <img src="{{ site.url }}/images/sponsors/ovoenergy.png" alt="OVO Energy" width="200">
         </a>
       </div>
     </div>
@@ -41,6 +41,25 @@ awesome.
     <div class="fl w-100 w-50-ns h-100 pa2 dt">
       <div class="pv4 dtc v-mid">
           Behind every piece of technology, is a person. We connect those people with the companies that need them the most.
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="mw9 center ph3-ns">
+  <div class="cf ph2-ns" style="height: 250px">
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid tc">
+        <a href="https://www.underscore.io/">
+          <img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore.io" width="200">
+        </a>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid">
+          We provide world class software development, consulting, and training services, built on a strong functional core.
       </div>
     </div>
   </div>

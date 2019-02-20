@@ -8,7 +8,7 @@ LambdAle is a functional programming conference in a pub.
 
 **Location:** George IV in Chiswick, West London
 
-**Content**: 10 hours of talks, with an FP-flavoured pub quiz to finish.
+**Content**: A whole day of exciting talks, with an FP-flavoured pub quiz to finish.
 
 Our goal is to bring people together to learn about FP in a fun, relaxing and welcoming environment.
 
