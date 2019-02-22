@@ -2,7 +2,7 @@
 title: Venue
 ---
 
-LambdAle will be held in the ballroom at [The George IV Pub](https://www.georgeiv.co.uk).
+LambdAle will be held in the Boston Room at [The George IV Pub](https://www.georgeiv.co.uk).
 
 The address is [185 High Road, Chiswick, London, W4 2DR](https://goo.gl/maps/2kHAdvHpHqJ2).
 
