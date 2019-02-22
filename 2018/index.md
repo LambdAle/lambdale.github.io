@@ -1,14 +1,15 @@
 ---
-title: LambdAle 2019
+title: LambdAle
+layout: default2018
 ---
 
 LambdAle is a functional programming conference in a pub.
 
-**Date:** Saturday 21st September
+**Date:** Saturday 1st September
 
-**Location:** George IV in Chiswick, West London
+**Location:** Balham Bowls Club, Balham, London
 
-**Content**: A whole day of exciting talks, with an FP-flavoured pub quiz to finish.
+**Content**: 11 half-hour talks, with an FP-flavoured pub quiz to finish.
 
 Our goal is to bring people together to learn about FP in a fun, relaxing and welcoming environment.
 
