@@ -23,14 +23,6 @@
         {% endfor %}
       </nav>
 
-      {% if page.title != "Sponsors" %}
-      <div class="pt4 tc">
-        <a class="ph2" href="https://ovoenergy.com/"><img src="{{ site.url }}/images/sponsors/ovoenergy.png" alt="OVO Energy" height="50"></a>
-        <a class="ph2" href="https://www.signifytechnology.com/"><img src="{{ site.url }}/images/sponsors/signify-no-text.png" alt="Signify Technology" width="50" height="50"></a>
-        <a class="ph2" href="https://www.underscore.io/"><img src="{{ site.url }}/images/sponsors/underscore-no-text.png" alt="underscore.io" height="50"></a>
-      </div>
-      {% endif %}
-
       <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
         {% if page.title %}
           <div class="mb4">
@@ -47,6 +39,49 @@
           {{ content }}
         </div>
       </main>
+      <div class="mw7 center tc pt3 pb4" style="background-color: #f4f4f4;">
+          {% if page.title != "Sponsors" %}
+          <div class="tc">
+            <h2>Our Sponsors</h2>
+            <div class="mw9 center ph3-ns">
+              <div class="cf ph2-ns" style="height: 100px">
+                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+                  <div class="dtc v-mid tc">
+                    <a href="https://www.ovoenergy.com/">
+                      <img src="{{ site.url }}/images/sponsors/ovoenergy.png" alt="OVO Energy" height="60">
+                    </a>
+                  </div>
+                </div>
+                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+                  <div class="dtc v-mid tc">
+                    <a href="https://www.signifytechnology.com/">
+                      <img src="{{ site.url }}/images/sponsors/signify-no-text.png" alt="Signify" height="80">
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="mw9 center ph3-ns">
+              <div class="cf ph2-ns" style="height: 150px">
+                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+                  <div class="dtc v-mid tc">
+                    <a href="https://www.underscore.io/">
+                      <img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore.io" height="80">
+                    </a>
+                  </div>
+                </div>
+                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+                  <div class="dtc v-mid tc">
+                    <a href="https://well-typed.com">
+                      <img src="{{ site.url }}/images/sponsors/well-typed.svg" alt="Well-Typed" height="50">
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endif %}
+      </div>
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
       Built with Jekyll using <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a>.
