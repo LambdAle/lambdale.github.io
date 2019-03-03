@@ -67,6 +67,25 @@ awesome.
 
 ---
 
+<div class="mw9 center ph3-ns">
+  <div class="cf ph2-ns" style="height: 250px">
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid tc">
+        <a href="https://well-typed.com">
+          <img src="{{ site.url }}/images/sponsors/well-typed.svg" alt="Well-Typed" width="200">
+        </a>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid">
+          We are a software consultancy specialised on Haskell. We provide application development, library and tool maintenance, project advice, and training.
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
 # Become a sponsor
 
 We are always looking for more sponsors.
