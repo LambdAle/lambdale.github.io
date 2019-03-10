@@ -52,6 +52,25 @@ awesome.
   <div class="cf ph2-ns" style="height: 250px">
     <div class="fl w-100 w-50-ns h-100 pa2 dt">
       <div class="pv4 dtc v-mid tc">
+        <a href="https://www.sipgate.co.uk/">
+          <img src="{{ site.url }}/images/sponsors/sipgate.svg" alt="sipgate" width="200">
+        </a>
+      </div>
+    </div>
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid">
+        sipgate isn’t your typical telephony provider. With 130 colleagues, we work together on extraordinary landline and telephony services just for you. Thousands of residential and business customers use our services daily. We’ve stood for innovation and transparency since 2004.
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="mw9 center ph3-ns">
+  <div class="cf ph2-ns" style="height: 250px">
+    <div class="fl w-100 w-50-ns h-100 pa2 dt">
+      <div class="pv4 dtc v-mid tc">
         <a href="https://www.underscore.io/">
           <img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore.io" width="200">
         </a>
