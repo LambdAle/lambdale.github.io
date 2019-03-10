@@ -10,97 +10,57 @@ awesome.
 
 ---
 
-<div class="mw9 center ph3-ns">
-  <div class="cf ph2-ns" style="height: 250px">
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid tc">
-        <a href="https://www.ovoenergy.com/">
-          <img src="{{ site.url }}/images/sponsors/ovoenergy.png" alt="OVO Energy" width="200">
-        </a>
-      </div>
-    </div>
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid">
-          We're tackling some of the world's most pressing problems by creating a better energy system for our planet and everyone on it.
-      </div>
-    </div>
-  </div>
+<div class="w-100 w-40-ns pa2 tc dib v-mid">
+  <a href="https://www.ovoenergy.com/">
+    <img src="{{ site.url }}/images/sponsors/ovoenergy.png" alt="OVO Energy" width="200">
+  </a>
+</div>
+<div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
+  We're tackling some of the world's most pressing problems by creating a better energy system for our planet and everyone on it.
 </div>
 
 ---
 
-<div class="mw9 center ph3-ns">
-  <div class="cf ph2-ns" style="height: 250px">
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid tc">
-        <a href="https://www.signifytechnology.com/">
-          <img src="{{ site.url }}/images/sponsors/signify.svg" alt="Signify" width="200" height="200">
-        </a>
-      </div>
-    </div>
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid">
-          Behind every piece of technology, is a person. We connect those people with the companies that need them the most.
-      </div>
-    </div>
-  </div>
+<div class="w-100 w-40-ns ph2 tc dib v-mid">
+  <a href="https://www.signifytechnology.com/">
+    <img src="{{ site.url }}/images/sponsors/signify.svg" alt="Signify" width="200" height="200">
+  </a>
+</div>
+<div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
+  Behind every piece of technology, is a person. We connect those people with the companies that need them the most.
 </div>
 
 ---
 
-<div class="mw9 center ph3-ns">
-  <div class="cf ph2-ns" style="height: 250px">
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid tc">
-        <a href="https://www.sipgate.co.uk/">
-          <img src="{{ site.url }}/images/sponsors/sipgate.svg" alt="sipgate" width="200">
-        </a>
-      </div>
-    </div>
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid">
-        sipgate isn’t your typical telephony provider. With 130 colleagues, we work together on extraordinary landline and telephony services just for you. Thousands of residential and business customers use our services daily. We’ve stood for innovation and transparency since 2004.
-      </div>
-    </div>
-  </div>
+<div class="w-100 w-40-ns pa2 tc dib v-mid">
+  <a href="https://www.sipgate.co.uk/">
+    <img src="{{ site.url }}/images/sponsors/sipgate.svg" alt="sipgate" width="200">
+  </a>
+</div>
+<div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
+  sipgate isn’t your typical telephony provider. With 130 colleagues, we work together on extraordinary landline and telephony services just for you. Thousands of residential and business customers use our services daily. We’ve stood for innovation and transparency since 2004.
 </div>
 
 ---
 
-<div class="mw9 center ph3-ns">
-  <div class="cf ph2-ns" style="height: 250px">
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid tc">
-        <a href="https://www.underscore.io/">
-          <img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore.io" width="200">
-        </a>
-      </div>
-    </div>
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid">
-          We provide world class software development, consulting, and training services, built on a strong functional core.
-      </div>
-    </div>
-  </div>
+<div class="w-100 w-40-ns pa2 tc dib v-mid">
+  <a href="https://www.underscore.io/">
+    <img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore.io" width="200">
+  </a>
+</div>
+<div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
+  We provide world class software development, consulting, and training services, built on a strong functional core.
 </div>
 
 ---
 
-<div class="mw9 center ph3-ns">
-  <div class="cf ph2-ns" style="height: 250px">
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid tc">
-        <a href="https://well-typed.com">
-          <img src="{{ site.url }}/images/sponsors/well-typed.svg" alt="Well-Typed" width="200">
-        </a>
-      </div>
-    </div>
-    <div class="fl w-100 w-50-ns h-100 pa2 dt">
-      <div class="pv4 dtc v-mid">
-          We are a software consultancy specialised on Haskell. We provide application development, library and tool maintenance, project advice, and training.
-      </div>
-    </div>
-  </div>
+<div class="w-100 w-40-ns pa2 tc dib v-mid">
+  <a href="https://well-typed.com">
+    <img src="{{ site.url }}/images/sponsors/well-typed.svg" alt="Well-Typed" width="200">
+  </a>
+</div>
+<div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
+  We are a software consultancy specialised on Haskell. We provide application development, library and tool maintenance, project advice, and training.
 </div>
 
 ---
