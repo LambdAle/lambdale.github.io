@@ -39,20 +39,20 @@
           {{ content }}
         </div>
       </main>
-      <div class="mw7 center tc pt3 pb4" style="background-color: #f4f4f4;">
-          {% if page.title != "Sponsors" %}
+      {% if page.title != "Sponsors" %}
+        <div class="mw7 center tc pt3 pb4" style="background-color: #f4f4f4">
           <div class="tc">
             <h2>Our Sponsors</h2>
             <div class="mw9 center ph3-ns">
-              <div class="cf ph2-ns" style="height: 100px">
-                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+              <div class="cf ph2-ns">
+                <div class="fl w-100 w-50-ns pa3 dt">
                   <div class="dtc v-mid tc">
                     <a href="https://www.ovoenergy.com/">
                       <img src="{{ site.url }}/images/sponsors/ovoenergy.png" alt="OVO Energy" height="60">
                     </a>
                   </div>
                 </div>
-                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+                <div class="fl w-100 w-50-ns pa3 dt">
                   <div class="dtc v-mid tc">
                     <a href="https://www.signifytechnology.com/">
                       <img src="{{ site.url }}/images/sponsors/signify-no-text.png" alt="Signify" height="80">
@@ -62,26 +62,37 @@
               </div>
             </div>
             <div class="mw9 center ph3-ns">
-              <div class="cf ph2-ns" style="height: 150px">
-                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+              <div class="cf ph2-ns">
+                <div class="fl w-100 w-50-ns pa3 dt">
+                  <div class="dtc v-mid tc">
+                    <a href="https://www.sipgate.co.uk/">
+                      <img src="{{ site.url }}/images/sponsors/sipgate.svg" alt="sipgate" height="60">
+                    </a>
+                  </div>
+                </div>
+                <div class="fl w-100 w-50-ns pa3 dt">
                   <div class="dtc v-mid tc">
                     <a href="https://www.underscore.io/">
                       <img src="{{ site.url }}/images/sponsors/underscore.png" alt="Underscore.io" height="80">
                     </a>
                   </div>
                 </div>
-                <div class="fl w-100 w-50-ns h-100 pa2 dt">
+              </div>
+            </div>
+            <div class="mw9 center ph3-ns">
+              <div class="cf ph2-ns">
+                <div class="center w-50-ns pa3 dt">
                   <div class="dtc v-mid tc">
                     <a href="https://well-typed.com">
-                      <img src="{{ site.url }}/images/sponsors/well-typed.svg" alt="Well-Typed" height="50">
+                      <img src="{{ site.url }}/images/sponsors/well-typed.svg" alt="Well-Typed" height="60">
                     </a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          {% endif %}
-      </div>
+        </div>
+      {% endif %}
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
       Built with Jekyll using <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a>.
