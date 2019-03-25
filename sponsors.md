@@ -22,6 +22,17 @@ awesome.
 ---
 
 <div class="w-100 w-40-ns ph2 tc dib v-mid">
+  <a href="https://permutive.com/">
+    <img src="{{ site.url }}/images/sponsors/permutive-icon-final.svg" alt="Signify" width="200" height="200">
+  </a>
+</div>
+<div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
+  At Permutive, we believe companies should be able to make big data actionable by anyone. We make this easy with a single edge computing platform that’s used by the largest publishers in the world. Our API lets our customers programmatically collect, store, filter and react to any user event in real time; by providing a powerful query layer that means they can personalise every user experience on the fly.
+</div>
+
+---
+
+<div class="w-100 w-40-ns ph2 tc dib v-mid">
   <a href="https://www.signifytechnology.com/">
     <img src="{{ site.url }}/images/sponsors/signify.svg" alt="Signify" width="200" height="200">
   </a>
