@@ -7,6 +7,16 @@ LambdAle is only made possible through the generosity of our sponsors.
 The sponsors are listed in alphabetical order, because they are all equally
 awesome.
 
+---
+
+<div class="w-100 w-40-ns pa2 tc dib v-mid">
+  <a href="https://www.hivemindtechnologies.com/">
+    <img src="{{ site.url }}/images/sponsors/hivemind.svg" alt="Hivemind Technologies" width="200">
+  </a>
+</div>
+<div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
+  Hivemind utilizes its software expertise to develop solution approaches that will align with our customer’s individual business needs. It is our mission to build effective IT infrastructures for our customers, which facilitate change, innovation, growth and success in the long-term. 
+</div>
 
 ---
 
