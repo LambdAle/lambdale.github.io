@@ -108,7 +108,7 @@ Simon Peyton Jones ([Microsoft Research](https://www.microsoft.com/en-us/researc
 #### About the speaker
 
 Simon is a major contributor to the design of the Haskell programming
-language,[9] and a lead developer of the Glasgow Haskell Compiler (GHC).
+language, and a lead developer of the Glasgow Haskell Compiler (GHC).
 
 <a href="#schedule">^ Back to schedule</a>
 
