@@ -2,4 +2,4 @@
 title: Tickets
 ---
 
-Tickets are not on sale yet.
+Tickets are now on sale [here](https://www.eventbrite.com/e/lambdale-2019-tickets-63598072547)!
