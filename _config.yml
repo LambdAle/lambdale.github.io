@@ -27,6 +27,9 @@ links:
   - name:         Code of Conduct
     url:          /coc
     external:     false
+  - name:         Environmental impact
+    url:          /environmental-impact
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /:title
