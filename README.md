@@ -4,8 +4,9 @@ The website for LambdAle, a functional programming conference in a pub.
 
 This is a Jekyll site that uses the [Scribble](https://github.com/muan/scribble) theme.
 
-## Running locally
+## Running
 
+### Locally
 First make sure you have Jekyll and Bundler installed:
 
 ```
@@ -21,6 +22,17 @@ Then:
 3. Run Jekyll: `bundle exec jekyll serve -w`
 
 4. Go to http://localhost:4000
+
+### Using docker
+
+```
+export JEKYLL_VERSION=3.8
+docker run --rm \
+  --volume="$PWD:/srv/jekyll" \
+  -p 4000:4000 \
+  -it jekyll/jekyll:$JEKYLL_VERSION \
+  jekyll serve -w
+```
 
 ## Deploying a change
 
