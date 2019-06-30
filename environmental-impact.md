@@ -1,7 +1,7 @@
 ---
 title: Environmental impact
 ---
-Let's face the truth: Conferences like LambdAle are not very environmental friendly. Tens or hundreds of people meeting for an event that typically lasts no more than a day or two. Some live close-by and come by public transport or car, but many fly in from other countries of the continent, or even travel from overseas. It is especially these flights that account for a lot of CO2 emissions. We don't believe in flat earth, but we do believe in global warming and that flying is a major contributor to it. So let's call a spade a spade - conferences are an environmental disaster.
+Let's face the truth: Conferences like LambdAle are not very environmental friendly. Tens or hundreds of people meeting for an event that typically lasts no more than a day or two. Some live close-by and come by public transport or car, but many fly from another country or even another continent. It is especially these flights that account for a lot of CO2 emissions. We don't believe in flat earth, but we do believe in global warming and that flying is a major contributor to it. So let's call a spade a spade - conferences are an environmental disaster.
 
 Yet we believe that conferences are good and necessary. They are a way of people coming together to network and engage with each other in a way that is not possible by solely relying on online communication. Conferences inspire people to discover, invent, and build new stuff; and thereby help advancing the state-of-the-art of the industry.
 
