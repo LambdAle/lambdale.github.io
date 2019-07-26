@@ -33,7 +33,7 @@ awesome.
 
 <div class="w-100 w-40-ns ph2 tc dib v-mid">
   <a href="https://permutive.com/">
-    <img src="{{ site.url }}/images/sponsors/permutive-icon-final.svg" alt="Signify" width="200" height="200">
+    <img src="{{ site.url }}/images/sponsors/permutive.png" alt="Permutive" width="200">
   </a>
 </div>
 <div class="w-100 w-50-ns pa2 ml3-ns tc tl-ns dib v-mid">
