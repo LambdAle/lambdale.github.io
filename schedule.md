@@ -16,7 +16,7 @@ title: Schedule
 
 <tr>
   <td class="ba b--black-50">10:00</td>
-  <td class="ba b--black-50"><a href="#keynote" class="b">Keynote - Simon Peyton Jones</a></td>
+  <td class="ba b--black-50"><a href="#keynote" class="b">Type inference as constraint solving: how GHC’s type inference engine actually works - Simon Peyton Jones</a></td>
 </tr>
 
 <tr>
@@ -99,11 +99,20 @@ title: Schedule
 
 ## Talks
 
-### Keynote
+<a id="keynote" />
 
-Title to be confirmed
+### Type inference as constraint solving: how GHC’s type inference engine actually works
 
 Simon Peyton Jones ([Microsoft Research](https://www.microsoft.com/en-us/research/people/simonpj/))
+
+The Haskell compiler GHC includes a type inference engine for a rather
+sophisticated type system. You might worry that a complicated type system leads
+to a very complicated type inference engine. You’d be right, but we have
+learned a lot about how to structure type inference so that the complexity does
+not get out of control.
+
+In this talk I’ll explain how GHC’s type inference engine actually works by
+first generating constraints and then solving them.
 
 #### About the speaker
 
