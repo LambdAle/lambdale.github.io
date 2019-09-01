@@ -21,11 +21,11 @@ During the conference we will ask people to help us choose to which company shou
 
 * [Cynefin Hedge Fund](https://cynefinhedgefund.com), a company that crowdfunds environmental projects in the UK. Its projects focus on woodland preservation and creation, research and development, and sustainable living.
 
-* [PrimaKlima](https://www.primaklima.org), a german company with projects worldwide, focussed on reforestation and sustainable agriculture.
+* [PrimaKlima](https://www.primaklima.org), a German company with projects worldwide, focussed on reforestation and sustainable agriculture.
 
 * [MyClimate](https://www.myclimate.org/), a Swiss NGO that has projects worldwide, covering areas like energy efficiency, land use and forestry, and more.
 
-Once the company that will receive the funds has been selected, we will transfer them  during the following week and let the community know once done.
+Once the company that will receive the funds has been selected, we will transfer them during the following week and let the community know once done.
 
 We also encourage you to read more about these initiatives and spread the word. Every little bit helps to achieve a reduction in atmospheric CO2.
 
