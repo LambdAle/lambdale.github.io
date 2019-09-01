@@ -19,7 +19,7 @@ If you still need to fly, LambdAle is happy to announce that with the help of ou
 
 During the conference we will ask people to help us choose to which company should we send the funds for CO2 compensation. The current shortlist we have includes:
 
-* [Cynefin Hedge Fund](https://cynefinhedgefund.com), a company that crowfunds environmental projects in the UK. Its projects focus on woodland preservation and creation, research and development, and sustainable living.
+* [Cynefin Hedge Fund](https://cynefinhedgefund.com), a company that crowdfunds environmental projects in the UK. Its projects focus on woodland preservation and creation, research and development, and sustainable living.
 
 * [PrimaKlima](https://www.primaklima.org), a german company with projects worldwide, focussed on reforestation and sustainable agriculture.
 
