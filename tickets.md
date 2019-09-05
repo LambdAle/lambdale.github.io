@@ -2,4 +2,7 @@
 title: Tickets
 ---
 
-Tickets are now on sale [here](https://www.eventbrite.com/e/lambdale-2019-tickets-63598072547)!
+Tickets for the conference are sold out!
+
+There are still tickets available for the [TLA+ workshop](./workshop) available
+[here](https://www.eventbrite.com/e/specifying-distributed-systems-with-tla-workshop-with-pawe-szulc-tickets-64877533449).

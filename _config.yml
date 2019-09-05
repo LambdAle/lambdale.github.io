@@ -15,8 +15,8 @@ links:
   - name:         Schedule
     url:          /schedule
     external:     false
-  - name:         CFP
-    url:          /cfp
+  - name:         Workshop
+    url:          /workshop
     external:     false
   - name:         Tickets
     url:          /tickets
