@@ -14,13 +14,17 @@
       </a>
     </header>
     <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
-      <nav class="bb b--light-gray pv4 tc" aria-label="Main">
-        {% for link in site.links %}
-          <a class="link blue hover-mid-gray mh2 pv1"
-             href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">
-             {{ link.name }}
-           </a>
+      <nav class="bb b--light-gray" aria-label="Main">
+        <ul class="menu list ph0-ns tc-ns">
+          {% for link in site.links %}
+          <li class="dib w-100 w-auto-ns">
+            <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}"
+               class="dib nav link blue hover-mid-gray w-100 mh2 pv1">
+               {{ link.name }}
+            </a>
+          </li>
         {% endfor %}
+        </ul>
       </nav>
 
       <main class="tl f6 relative pa4 pa5-ns overflow-hidden">
